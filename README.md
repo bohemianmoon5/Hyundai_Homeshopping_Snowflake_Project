@@ -5,7 +5,7 @@
 ---
 
 ## 📝 To-Be 시스템 구성도
-<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/b67a17d2-5b79-46a2-be68-437e9d9b5c8d" />
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fb90607c-2427-4a7f-bd68-3ab56328517c" />
 
 ---
 
@@ -17,9 +17,12 @@
 ---
 
 ## 🛠 기술 스택
+- Informatica PowerCenter
 - SQL
 - Snowflake
 
 ---
 
 ## ⚙️ 회고
+
+
