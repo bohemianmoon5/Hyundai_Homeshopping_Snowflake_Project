@@ -10,6 +10,7 @@
 ---
 
 ## ✨ 목표
+- ✅ AS-IS ETL 시스템 분석
 - ✅ Oracle Procedure를 Snowflake Procedure로 변환
 - ✅ 증분적재용 Merge Task 개발
 
