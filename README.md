@@ -25,4 +25,7 @@
 
 ## ⚙️ 회고
 
+---
 
+## 📌 참고 자료
+- [프로젝트 소개]([https://example.com](https://www.youtube.com/watch?v=dS-fFRKZYlg&t=1282s))
